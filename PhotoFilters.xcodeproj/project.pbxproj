@@ -13,6 +13,7 @@
 		D4827B861A1A98AB00E9C1F8 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D4827B851A1A98AB00E9C1F8 /* Images.xcassets */; };
 		D4827B891A1A98AB00E9C1F8 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = D4827B871A1A98AB00E9C1F8 /* LaunchScreen.xib */; };
 		D4827B951A1A98AB00E9C1F8 /* PhotoFiltersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4827B941A1A98AB00E9C1F8 /* PhotoFiltersTests.swift */; };
+		D4827B9F1A1A98EC00E9C1F8 /* dos-banner-2b.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D4827B9E1A1A98EC00E9C1F8 /* dos-banner-2b.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		D4827B8E1A1A98AB00E9C1F8 /* PhotoFiltersTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PhotoFiltersTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4827B931A1A98AB00E9C1F8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D4827B941A1A98AB00E9C1F8 /* PhotoFiltersTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoFiltersTests.swift; sourceTree = "<group>"; };
+		D4827B9E1A1A98EC00E9C1F8 /* dos-banner-2b.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dos-banner-2b.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		D4827B7B1A1A98AB00E9C1F8 /* PhotoFilters */ = {
 			isa = PBXGroup;
 			children = (
+				D4827B9E1A1A98EC00E9C1F8 /* dos-banner-2b.jpg */,
 				D4827B7E1A1A98AB00E9C1F8 /* AppDelegate.swift */,
 				D4827B801A1A98AB00E9C1F8 /* ViewController.swift */,
 				D4827B821A1A98AB00E9C1F8 /* Main.storyboard */,
@@ -194,6 +197,7 @@
 			files = (
 				D4827B841A1A98AB00E9C1F8 /* Main.storyboard in Resources */,
 				D4827B891A1A98AB00E9C1F8 /* LaunchScreen.xib in Resources */,
+				D4827B9F1A1A98EC00E9C1F8 /* dos-banner-2b.jpg in Resources */,
 				D4827B861A1A98AB00E9C1F8 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
